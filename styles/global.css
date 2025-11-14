@@ -1,16 +1,16 @@
 @font-face {
-    font-family: titulos;
-    src: url(../fonts/Inknut_Antiqua/InknutAntiqua-Bold.ttf);
+    font-family: "titulos";
+    src: url("../fonts/Inknut_Antiqua/InknutAntiqua-Bold.ttf") format("truetype");
 }
 
 @font-face {
-    font-family: subtitulos;
-    src: url(/fonts/InriaSans-Bold.ttf);
+    font-family: "subtitulos";
+    src: url("../fonts/InriaSans-Bold.ttf") format("truetype");
 }
 
 @font-face {
-    font-family: textos;
-    src: url(/fonts/InriaSans-Regular.ttf);
+    font-family: "textos";
+    src: url("../fonts/InriaSans-Regular.ttf") format("truetype");
 }
 
 /*HEADER*/
@@ -81,4 +81,5 @@ footer {
   color: black;
 
 }
+
 

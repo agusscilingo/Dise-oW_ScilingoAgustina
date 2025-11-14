@@ -1,5 +1,5 @@
 body{
-    background-image: url(/img/06error/sauron.webp);
+    background-image: url(../img/06error/sauron.webp);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -31,4 +31,5 @@ h2{
     h2{
         font-size: 2rem;
     }
+
 }

@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+H1{
+    font-family: titulos;
+    color: #D2AE77;
+    font-size: 3rem;
+    text-align: center;
+}
+
+p{
+    font-family: subtitulos;
+    color: #D2AE77;
+    font-size: 2rem;
+    text-align: center;
+    margin: 5px;
+}
+
+form {
+    background-color: #D2AE77;
+    width: 80%;
+    max-width: 1000px;
+    margin: auto;
+    font-size: 1.5rem;
+}
+
+.relleno {
+    padding: 15px;
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+    margin: 50px 0;
+}
+
+input,
+button {
+    font-size: 1rem;
+    padding: 10px;
+    margin: 5px;
+}
+
+.centrado {
+    display: flex;
+    justify-content: center;
+}
+
+.terminos {
+    font-size: 1rem;
+}
+
+form:invalid {
+    outline: 3px solid red;
+}
+
+form:valid {
+    outline: 3px solid green;
+
+}

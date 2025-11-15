@@ -45,9 +45,6 @@
     border-radius: 5px;
 }
 
-.video{
-    justify-content: center;
-}
 .videov{
   aspect-ratio: 16/9;
 }
@@ -82,3 +79,4 @@
   }
 
 }
+

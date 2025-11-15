@@ -46,8 +46,10 @@
 }
 
 .video{
+    justify-content: center;
+}
+.videov{
   aspect-ratio: 16/9;
-  /* aca quiero centrar el video */
 }
 
 /*RESPONSIVE*/
@@ -78,4 +80,5 @@
   .imagenes {
     width: 90%;
   }
+
 }
